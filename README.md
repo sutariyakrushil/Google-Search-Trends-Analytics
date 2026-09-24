@@ -1,20 +1,43 @@
 # Google_Search_Trends_Analytics
-Project Overview
+📌 Project Overview
 
-An interactive Streamlit dashboard that analyzes Google search trends using the Pytrends API and visualizes search interest by country, over time, and across related keywords.
+An interactive Streamlit dashboard that analyzes Google search trends using Pytrends and visualizes search interest by country, over time, and across related keywords.
 
-Features
+🏷️ Project Title
 
-Search interest for any keyword
+Google Search Trends Analysis Dashboard
 
-Top 15 countries by search interest
+🛠️ Technologies
+
+Python
+
+Streamlit
+
+Pandas
+
+Plotly
+
+Pytrends
+
+Jupyter Notebook
+
+▶️ Run the Project
+
+pip install streamlit pandas plotly pytrends
+streamlit run app.py
+
+Then open the local Streamlit URL shown in the terminal.
+
+✨ Features
+
+Search trend analysis for any keyword
+
+Interest by country
 
 World map visualization
 
-Search interest over time
+Interest over time
 
-Compare multiple related keywords
+Related keyword comparison
 
-Select different time periods and countries
-
-Interactive Plotly charts
+Custom time period and country selection
