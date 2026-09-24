@@ -1,5 +1,4 @@
-# Google_Search_Trends_Analytics
-# Google Search Analysis
+# Google Search Trends Analytics
 
 ## Project Overview
 
